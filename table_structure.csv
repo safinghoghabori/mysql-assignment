@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+transaction_id,int,NO,PRI,NULL,
+created_at,date,NO,,NULL,
+base_fair,int,NO,,NULL,
+service_tax,float,NO,,NULL,
+total_fair,float,NO,,NULL,
+company_profit,float,NO,,NULL,
+payment_type,varchar(10),NO,,NULL,
